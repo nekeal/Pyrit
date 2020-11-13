@@ -1,4 +1,5 @@
 ## Please Read
+This is forked version of Pyrit which causes problems on newest Kali version. It disables aesni 
 
 Pyrit is old, is outdated and it's still Python2 I am currently attempting to rewrite it from scratch, so thanks for all the stars but remember to keep an eye for Python3 version.
 
